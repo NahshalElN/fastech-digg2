@@ -1,4 +1,5 @@
-Re-done frontend task for Fastech. Built with React.js and tailwind. Uses React context, react-router and a multistep form made with switch statement.
+Re-done frontend task for Fastech. Built with React.js and tailwind. Uses React context, react-router and a multistep form made with switch statement. 
+App should be live at digg-frontend.ml
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
